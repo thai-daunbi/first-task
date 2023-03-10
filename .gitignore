@@ -1,3 +1,4 @@
 .idea
-images/php/app
+images/php/app/vendor
+images/php/app/storage
 .env
